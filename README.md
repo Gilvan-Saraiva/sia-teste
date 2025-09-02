@@ -1,4 +1,6 @@
 
+
+
 # Dashboard de Monitoramento: IA no Piauí
 
 Este projeto implementa um dashboard simplificado para monitorar menções sobre "Inteligência Artificial no Piauí" em fontes de notícias públicas.
@@ -48,3 +50,7 @@ Este projeto implementa um dashboard simplificado para monitorar menções sobre
 - `processamento.py`: Módulo para limpeza e análise de sentimento.
 - `requirements.txt`: Lista de dependências Python.
 - `DECISIONS.md`: Documentação das decisões de projeto.
+
+## Transparência
+
+    Cerca de 90% do README.md foi feito com ia
