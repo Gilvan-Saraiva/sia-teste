@@ -1,0 +1,7 @@
+requests
+pandas
+streamlit
+beautifulsoup4
+wordcloud
+matplotlib
+plotly
